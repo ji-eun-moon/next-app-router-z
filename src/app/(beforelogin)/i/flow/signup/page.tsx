@@ -1,4 +1,4 @@
-import SignupModal from "@/app/(beforelogin)/_component/SignupModal";
+import SignupModal from "@/app/(beforeLogin)/_component/SignupModal";
 
 const SignUpPage = () => {
   return <SignupModal />;
